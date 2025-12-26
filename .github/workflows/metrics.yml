@@ -2,7 +2,7 @@
 on:
   # Update alle 24 Stunden automatisch
   schedule: [{cron: "0 0 * * *"}]
-  # Erlaubt dir, den Knopf "Run workflow" manuell zu drücken
+ 
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 
