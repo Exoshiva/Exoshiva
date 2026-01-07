@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
   <h1>Lars Patzenbein</h1>
-  <h3>Umschüler zum Fachinformatiker Anwendungsentwicklung (FIAE)</h3>
+  <h3>Fachinformatiker Anwendungsentwicklung (FIAE) in Ausbildung</h3>
   
   <p>
     Open-Source-Enthusiast | Security Focus | Building NovaQ | Working on sustainable Software
