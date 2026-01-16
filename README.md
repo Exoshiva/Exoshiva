@@ -1,10 +1,10 @@
 ﻿<div align="center">
 
   <h1>Lars Patzenbein</h1>
-  <h3>Fachinformatiker Anwendungsentwicklung (FIAE) in Ausbildung</h3>
+  <h3>Fachinformatiker Anwendungsentwicklung in Ausbildung</h3>
   
   <p>
-    Open-Source-Enthusiast | Security Focus | Building NovaQ | Working on sustainable Software
+    Open-Source-Enthusiast | Security Focus | Building Nova-Quantum-Core | Working on sustainable Software
   </p>
 
   <a href="https://developers.google.com/">
@@ -32,7 +32,7 @@
 
 ### Über mich
 Ich befinde mich aktuell in der Umschulung zum FIAE und fokussiere mich auf **sichere Software-Architekturen** und **KI-Integration**.
-Mein Hauptprojekt **NovaQ** beschäftigt sich mit Post-Quantum-Verschlüsselung auf Edge-Devices.
+Mein Hauptprojekt **Nova Quantum Core** beschäftigt sich mit Post-Quantum-Verschlüsselung auf Edge-Devices.
 
 ### Tech Stack
 <p align="left">
@@ -65,5 +65,10 @@ Mein Hauptprojekt **NovaQ** beschäftigt sich mit Post-Quantum-Verschlüsselung 
 
 ### GitHub Statistiken
 <div align="center">
-  <img src="github-metrics.svg" alt="Metrics" width="800">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Exoshiva&bg_color=0d1117&color=0056D2&line=4285F4&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Exoshiva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exoshiva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
