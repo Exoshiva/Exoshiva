@@ -44,26 +44,15 @@ Mein Hauptprojekt **NovaQ** beschäftigt sich mit Post-Quantum-Verschlüsselung 
 
 ### Zertifikate & Qualifikationen
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Cybersecurity</h3>
-      <b>(Cisco Networking Academy)</b><br><br>
-      <img src="https://img.shields.io/badge/Cisco-Network%20Defense-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Cisco-Threat%20Analysis-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Cisco-System%20Safeguards-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-    </td>
-    <td valign="top" width="50%">
-      <h3>Software Dev & AI</h3>
-      <b>(Microsoft / IBM / Cisco)</b><br><br>
-      <img src="https://img.shields.io/badge/Microsoft-C%23%20Fundamentals-0078D4?style=flat-square&logo=csharp&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/IBM-AI%20Fundamentals-052FAD?style=flat-square&logo=ibm&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/KI_Campus-Data_Science_Basics-purple?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/Cisco-Intro%20to%20Generative%20AI-1BA0D7?style=flat-square&logo=openai&logoColor=white" />
-    </td>
-  </tr>
-</table>
+**🛡️ Cybersecurity (Cisco Networking Academy)**
+<br>
+<img src="https://img.shields.io/badge/Cisco-Network%20Defense-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Cisco-Threat%20Analysis-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Cisco-System%20Safeguards-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+
+<br><br>
+
+**💻 Software Development & AI (Microsoft / IBM / Cisco)**
+<br>
+<img src="https://img.shields.io/badge/Microsoft-C%23%20Fundamentals-0078D4?style=flat-square&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/IBM-AI%20Fundamentals-052FAD?style=flat-square&logo=ibm&logoColor=white" /> <img src="https://img.shields.io/badge/KI_Campus-Data_Science_Basics-purple?style=flat-square" /> <img src="https://img.shields.io/badge/Cisco-Intro%20to%20Generative%20AI-1BA0D7?style=flat-square&logo=openai&logoColor=white" />
 
 ### Learning Roadmap (Ziele bis 2027)
 * **Cybersecurity:** Ethical Hacker, Endpoint Security, Network Technician (Cisco)
