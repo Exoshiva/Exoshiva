@@ -4,7 +4,7 @@
   <h3>Fachinformatiker Anwendungsentwicklung (FIAE) in Ausbildung</h3>
   
   <p>
-    Open-Source-Enthusiast | Security Focus | Building NovaQ | Working on sustainable Software
+    Open-Source-Enthusiast | Security Focus | Building Nova-Quantum-Core | Working on sustainable Software
   </p>
 
   <a href="https://developers.google.com/">
@@ -32,7 +32,7 @@
 
 ### Über mich
 Ich befinde mich aktuell in der Umschulung zum FIAE und fokussiere mich auf **sichere Software-Architekturen** und **KI-Integration**.
-Mein Hauptprojekt **NovaQ** beschäftigt sich mit Post-Quantum-Verschlüsselung auf Edge-Devices.
+Mein Hauptprojekt **Nova-Quantum-Core** beschäftigt sich mit Post-Quantum-Verschlüsselung auf Edge-Devices.
 
 ### Tech Stack
 <p align="left">
