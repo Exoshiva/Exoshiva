@@ -37,6 +37,11 @@ Ich verbinde technische Logik mit visueller Ästhetik.
 
 Mein Privates Forschungsprojekt Nova-Quantum-Core beschäftigt sich u.a mit Post-Quantum-Verschlüsselung auf Edge-Devices und dient mir, mich in PQC-Algorithmen einzuarbeiten. 
 
+Aktueller Fokus:
+​🛠️ Fullstack-Entwicklung: C#, .NET, Web-Technologies & Python.
+​🎨 UI/UX Design: Verständnis für Layout, Typografie und User Journey.
+​🔐 Sicherheit: Fokus auf sichere Software-Architekturen und Network Defense (Cisco Certified).
+
 ### Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,cs,html,css" />
