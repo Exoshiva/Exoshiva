@@ -45,6 +45,16 @@ Aktueller Fokus:
 
 ​🔐 Sicherheit: Fokus auf sichere Software-Architekturen und Network Defense (Cisco Certified).
 
+Mein Antrieb:
+
+Neben der Umschulung arbeite ich an einer Forum Web-App für die Dresdner Veranstaltungs Szene. 
+
+Mein privates Forschungsprojekt Nova-Quantum-Core. 
+Beschäftigt sich u.a. mit Post-Quantum-Verschlüsselung auf Edge-Devices und dient mir dazu, mich tiefgehend in komplexe Algorithmen und Sicherheitsstrukturen 
+einzuarbeiten.
+
+​Ich suche nach Herausforderungen, bei denen ich sauberen Code, IT-Sicherheit und durchdachtes Design vereinen kann."
+
 ### Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,cs,html,css" />
