@@ -4,7 +4,7 @@
   <h3>Junior Fullstack Dev</h3>
   
   <p>
-    Open-Source-Enthusiast | Security Focus | Focus on sustainable Software
+    Junior Fullstack Developer | C# & Web Technologies  | Ex-Mediengestalter (UI/UX Fokus) | Open Source Enthusiast | Focus on sustainable Software
   </p>
 
   <a href="https://developers.google.com/">
@@ -31,11 +31,7 @@
 ---
 
 ### Über mich
-Ich befinde mich aktuell in einer Umschulung zum Fachinformatiker für Anwendungsentwicklung. 
-Ich fokussiere mich darauf sichere Fullstack Software-Architekturen und KI-Integration. 
-
-Ich konzentriere mich darauf Ressourcen schonende Fullstack-Anwendungen zu entwickeln. 
-
+Ich verbinde technische Logik mit visueller Ästhetik. Durch meinen Hintergrund als Mediengestalter für Digital- und Printmedien (2011–2013) und meine aktuelle Umschulung zum Fachinformatiker für Anwendungsentwicklung (2025–2027) entwickle ich Anwendungen, die nicht nur sicher funktionieren, sondern auch intuitiv bedienbar sind.
 Mein Privates Forschungsprojekt Nova-Quantum-Core beschäftigt sich u.a mit Post-Quantum-Verschlüsselung auf Edge-Devices und dient mir, mich in PQC-Algorithmen einzuarbeiten. 
 
 ### Tech Stack
