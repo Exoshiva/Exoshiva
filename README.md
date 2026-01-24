@@ -4,7 +4,7 @@
   <h3>Junior Fullstack Dev</h3>
   
   <p>
-    Open-Source-Enthusiast | Security Focus | Fokus on sustainable Software
+    Open-Source-Enthusiast | Security Focus | Focus on sustainable Software
   </p>
 
   <a href="https://developers.google.com/">
