@@ -62,8 +62,8 @@ einzuarbeiten.
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,linux,vscode,visualstudio" />
 
-### Creative Tools
-![FL Studio](https://img.shields.io/badge/FL%20Studio-F27C0E?style=for-the-badge&logo=FL%20Studio&logoColor=white)
+### CreativeTools 
+<a href="https://www.freelogovectors.net/fl-studio-logo-01/"><img src="https://www.freelogovectors.net/wp-content/uploads/2023/01/fl_studio_logo-freelogovectors.net_.png" alt="FL Studio Logo | 01"></a>
 
 </p>
 
