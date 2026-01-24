@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Lars Patzenbein</h1>
-  <h3>Fachinformatiker Anwendungsentwicklung (FIAE) in Ausbildung</h3>
+  <h3>Junior Entwickler</h3>
   
   <p>
     Open-Source-Enthusiast | Security Focus | Building Nova-Quantum-Core | Working on sustainable Software
