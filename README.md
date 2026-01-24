@@ -31,7 +31,9 @@
 ---
 
 ### Über mich
-Ich verbinde technische Logik mit visueller Ästhetik. Durch meinen Hintergrund als Mediengestalter für Digital- und Printmedien (2011–2013) und meine aktuelle Umschulung zum Fachinformatiker für Anwendungsentwicklung (2025–2027) entwickle ich Anwendungen, die nicht nur sicher funktionieren, sondern auch intuitiv bedienbar sind.
+Durch meinen Hintergrund als Mediengestalter für Digital- und Printmedien (2011–2013) und meine aktuelle Umschulung zum Fachinformatiker für Anwendungsentwicklung (2025–2027) entwickle ich Anwendungen, die nicht nur sicher funktionieren, sondern auch intuitiv bedienbar sind.
+
+Ich verbinde technische Logik mit visueller Ästhetik. 
 
 Mein Privates Forschungsprojekt Nova-Quantum-Core beschäftigt sich u.a mit Post-Quantum-Verschlüsselung auf Edge-Devices und dient mir, mich in PQC-Algorithmen einzuarbeiten. 
 
