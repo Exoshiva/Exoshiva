@@ -31,7 +31,8 @@
 ---
 
 ### Über mich
-Ich befinde mich aktuellind einer Umschulung zum Fachinformatiker für Anwendungsentwicklung ich fokussiere mich auf sichere Fullstack Software-Architekturen und KI-Integration. 
+Ich befinde mich aktuell in einer Umschulung zum Fachinformatiker für Anwendungsentwicklung. 
+Ich fokussiere mich darauf sichere Fullstack Software-Architekturen und KI-Integration. 
 
 Ich konzentriere mich darauf Ressourcen schonende Fullstack-Anwendungen zu entwickeln. 
 
