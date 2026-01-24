@@ -4,7 +4,7 @@
   <h3>Junior Entwickler</h3>
   
   <p>
-    Open-Source-Enthusiast | Security Focus | Building Nova-Quantum-Core | Working on sustainable Software
+    Open-Source-Enthusiast | Security Focus | Working on sustainable Software
   </p>
 
   <a href="https://developers.google.com/">
@@ -33,9 +33,9 @@
 ### Über mich
 Ich befinde mich aktuell in der Umschulungzum Junior Entwickler nd fokussiere mich auf sichere Fullstack Software-Architekturen und KI-Integration. 
 
-Mein Privates langzeitprojekt Nova-Quantum-Core beschäftigt sich u.a mit Post-Quantum-Verschlüsselung auf Edge-Devices. 
-
 Ich konzentriere mich darauf Ressourcen schonende Fullstack-Anwendungen zu entwickeln. 
+
+Mein Privates Forschungsprojekt Nova-Quantum-Core beschäftigt sich u.a mit Post-Quantum-Verschlüsselung auf Edge-Devices und dient mir, mich in PQC-Algorithmen einzuarbeiten. 
 
 ### Tech Stack
 <p align="left">
