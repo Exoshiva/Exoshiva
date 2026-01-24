@@ -31,8 +31,7 @@
 ---
 
 ### Über mich
-Ich befinde mich aktuell in der Umschulung zum FIAE und fokussiere mich auf **sichere Software-Architekturen** und **KI-Integration**.
-Mein Hauptprojekt **Nova-Quantum-Core** beschäftigt sich mit Post-Quantum-Verschlüsselung auf Edge-Devices.
+Ich befinde mich aktuell in der Umschulungzum Junior Entwickler nd fokussiere mich auf sichere Fullstack Software-Architekturen und KI-Integration. Mein Privates langzeitprojekt Nova-Quantum-Core beschäftigt sich u.a mit Post-Quantum-Verschlüsselung auf Edge-Devices.
 
 ### Tech Stack
 <p align="left">
@@ -44,13 +43,13 @@ Mein Hauptprojekt **Nova-Quantum-Core** beschäftigt sich mit Post-Quantum-Versc
 
 ### Zertifikate & Qualifikationen
 
-**🛡️ Cybersecurity (Cisco Networking Academy)**
+**Cybersecurity (Cisco Networking Academy)**
 <br>
 <img src="https://img.shields.io/badge/Cisco-Network%20Defense-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Cisco-Threat%20Analysis-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Cisco-System%20Safeguards-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
 
 <br><br>
 
-**💻 Software Development & AI (Microsoft / IBM / Cisco)**
+**Software Development & AI (Microsoft / IBM / Cisco)**
 <br>
 <img src="https://img.shields.io/badge/Microsoft-C%23%20Fundamentals-0078D4?style=flat-square&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/IBM-AI%20Fundamentals-052FAD?style=flat-square&logo=ibm&logoColor=white" /> <img src="https://img.shields.io/badge/KI_Campus-Data_Science_Basics-purple?style=flat-square" /> <img src="https://img.shields.io/badge/Cisco-Intro%20to%20Generative%20AI-1BA0D7?style=flat-square&logo=openai&logoColor=white" />
 
