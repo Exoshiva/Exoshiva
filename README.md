@@ -61,6 +61,10 @@ einzuarbeiten.
   <img src="https://skillicons.dev/icons?i=flask,sqlite,dotnet" />
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,linux,vscode,visualstudio" />
+
+### Creative Tools
+![FL Studio](https://img.shields.io/badge/FL%20Studio-F27C0E?style=for-the-badge&logo=FL%20Studio&logoColor=white)
+
 </p>
 
 ### Zertifikate & Qualifikationen
