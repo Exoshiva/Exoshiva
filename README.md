@@ -63,7 +63,10 @@ einzuarbeiten.
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,linux,vscode,visualstudio" />
 
 ### CreativeTools 
-<a href="https://www.freelogovectors.net/fl-studio-logo-01/"><img src="https://downloads.image-line.com/Press/FLStudio20_MasterIcon.png" alt="FL Studio Logo | 01"></a>
+### Creative Tools
+<a href="https://www.image-line.com/">
+  <img src="https://downloads.image-line.com/Press/FLStudio20_MasterIcon.png" alt="FL Studio" width="50">
+</a>
 
 </p>
 
