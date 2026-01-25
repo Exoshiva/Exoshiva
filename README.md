@@ -10,16 +10,23 @@
     <img src="https://img.shields.io/badge/Google-Developer%20Program-4285F4?style=flat-square&logo=google-developers&logoColor=white" />
   </a>
     <img src="https://img.shields.io/badge/Google-Labs%20Member-4285F4?style=flat-square&logo=google&logoColor=white" />
-  </br<br>
-  <a href="mailto:lrs.patzenbein@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Kontaktieren-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a><br>
- 
-  <br>[![Sponsor Exoshiva](https://img.shields.io/badge/Sponsor-Exoshiva-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Exoshiva)
-  <a href="https://labs.google/"><br>
- 
+  <br></br>
   
-  </div>
+<div align="center">
+  <a href="mailto:lrs.patzenbein@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Kontaktieren-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://github.com/sponsors/Exoshiva">
+    <img src="https://img.shields.io/badge/Sponsor-Exoshiva-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor" />
+  </a>
+
+  <a href="https://www.buymeacoffee.com/Exoshiva">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</div>
+<br></br>
+</div>
 
    
 
@@ -47,7 +54,7 @@ Beschäftigt sich u.a. mit Post-Quantum-Verschlüsselung auf Edge-Devices und di
 einzuarbeiten.
 
 ​Ich suche nach Herausforderungen, bei denen ich sauberen Code, IT-Sicherheit und durchdachtes Design vereinen kann."
-
+<br></br>
 ### Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,cs,html,css" />
