@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Sponsor-Exoshiva-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor" />
   </a>
 
-  <a href="https://www.buymeacoffee.com/Exoshiva">
+  <a href="https://www.buymeacoffee.com/Exoshiva250">
     <img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </div>
