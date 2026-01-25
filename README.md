@@ -25,9 +25,8 @@
 [![Sponsor Exoshiva](https://img.shields.io/badge/Sponsor-Exoshiva-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Exoshiva) 
 </div>
   
-[![Sponsor Exoshiva](https://img.shields.io/badge/Sponsor-Exoshiva-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Exoshiva) 
 ---
-[![Sponsor Exoshiva](https://img.shields.io/badge/Sponsor-Exoshiva-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Exoshiva) 
+
 ### Über mich
 Durch meinen Hintergrund als Mediengestalter für Digital- und Printmedien (2011–2013) und meine aktuelle Umschulung zum Fachinformatiker für Anwendungsentwicklung (2025–2027) entwickle ich Anwendungen, die nicht nur sicher funktionieren, sondern auch intuitiv bedienbar sind.
 Ich verbinde technische Logik mit visueller Ästhetik. 
