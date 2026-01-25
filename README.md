@@ -14,9 +14,7 @@
   <a href="https://labs.google/">
     <img src="https://img.shields.io/badge/Google-Labs%20Member-4285F4?style=flat-square&logo=google&logoColor=white" />
   </a>
-
   <br><br>
-
   <a href="https://www.exoshiva.org">
     <img src="https://img.shields.io/badge/Website-exoshiva.org-0056D2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
