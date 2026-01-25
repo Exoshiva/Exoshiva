@@ -79,6 +79,7 @@ einzuarbeiten.
 <br>
 <img src="https://img.shields.io/badge/Microsoft-C%23%20Fundamentals-0078D4?style=flat-square&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/IBM-AI%20Fundamentals-052FAD?style=flat-square&logo=ibm&logoColor=white" /> <img src="https://img.shields.io/badge/KI_Campus-Data_Science_Basics-purple?style=flat-square" /> <img src="https://img.shields.io/badge/Cisco-Intro%20to%20Generative%20AI-1BA0D7?style=flat-square&logo=openai&logoColor=white" />
 
+</br>
 ### Learning Roadmap (Ziele bis 2027)
 * **Cybersecurity:** Ethical Hacker, Endpoint Security, Network Technician (Cisco)
 * **Cryptography:** IBM Encryption & Quantum Safe Learning
