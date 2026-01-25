@@ -15,15 +15,13 @@
     <img src="https://img.shields.io/badge/Google-Labs%20Member-4285F4?style=flat-square&logo=google&logoColor=white" />
   </a>
   <br><br>
-  <a href="https://www.exoshiva.org">
-    <img src="https://img.shields.io/badge/Website-exoshiva.org-0056D2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+[![Sponsor Exoshiva](https://img.shields.io/badge/Sponsor-Exoshiva-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Exoshiva) 
+</div>
   <a href="mailto:lrs.patzenbein@gmail.com">
     <img src="https://img.shields.io/badge/Email-Kontaktieren-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-[![Sponsor Exoshiva](https://img.shields.io/badge/Sponsor-Exoshiva-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Exoshiva) 
-</div>
+
   
 ---
 
