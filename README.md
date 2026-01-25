@@ -16,13 +16,13 @@
   <a href="mailto:lrs.patzenbein@gmail.com">
     <img src="https://img.shields.io/badge/Email-Kontaktieren-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
+  
   <a href="https://github.com/sponsors/Exoshiva">
     <img src="https://img.shields.io/badge/Sponsor-Exoshiva-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor" />
   </a>
 
   <a href="https://www.buymeacoffee.com/Exoshiva">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+    <img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </div>
 <br></br>
