@@ -2,7 +2,7 @@
  
   <h1>Lars Patzenbein</h1>
   <h3>Junior Fullstack Dev</h3>
-  
+   [![Sponsor Exoshiva](https://img.shields.io/badge/Sponsor-Exoshiva-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Exoshiva)
   <p>
     Junior Fullstack Developer | C# & Web Technologies  | Ex-Mediengestalter (UI/UX Fokus)</p>
     <p> Open Source Enthusiast | Focus on sustainable Software </p>    
@@ -14,7 +14,7 @@
   <a href="https://labs.google/">
     <img src="https://img.shields.io/badge/Google-Labs%20Member-4285F4?style=flat-square&logo=google&logoColor=white" />
   </a>
-   [![Sponsor Exoshiva](https://img.shields.io/badge/Sponsor-Exoshiva-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Exoshiva)
+  
   <br><br>
  
   <a href="mailto:lrs.patzenbein@gmail.com">
