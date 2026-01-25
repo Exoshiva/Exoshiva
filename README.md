@@ -2,8 +2,7 @@
  
   <h1>Lars Patzenbein</h1>
   <h3>Junior Fullstack Dev</h3>
-   [![Sponsor Exoshiva](https://img.shields.io/badge/Sponsor-Exoshiva-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Exoshiva)
-  <p>
+  
     Junior Fullstack Developer | C# & Web Technologies  | Ex-Mediengestalter (UI/UX Fokus)</p>
     <p> Open Source Enthusiast | Focus on sustainable Software </p>    
  
@@ -23,6 +22,9 @@
   
 
   </div>
+
+   [![Sponsor Exoshiva](https://img.shields.io/badge/Sponsor-Exoshiva-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Exoshiva)
+  <p>
 ---
 
 ### Über mich
