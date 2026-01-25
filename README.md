@@ -38,6 +38,7 @@ Ich verbinde technische Logik mit visueller Ästhetik.
 
 Mein Privates Forschungsprojekt Nova-Quantum-Core beschäftigt sich u.a mit Post-Quantum-Verschlüsselung auf Edge-Devices und dient mir, mich in PQC-Algorithmen einzuarbeiten. 
 
+
 ### Aktueller Fokus:
 
 ​- Fullstack-Entwicklung: C#, .NET, Web-Technologies & Python.
@@ -45,6 +46,7 @@ Mein Privates Forschungsprojekt Nova-Quantum-Core beschäftigt sich u.a mit Post
 ​- UI/UX Design: Verständnis für Layout, Typografie und User Journey.
 
 ​- Sicherheit: Fokus auf sichere Software-Architekturen und Network Defense (Cisco Certified).
+<p></p>
 
 ### Mein Antrieb:
 Neben der Umschulung arbeite ich an einer Forum Web-App für die Dresdner Veranstaltungs Szene. 
@@ -54,14 +56,13 @@ Beschäftigt sich u.a. mit Post-Quantum-Verschlüsselung auf Edge-Devices und di
 einzuarbeiten.
 
 ​Ich suche nach Herausforderungen, bei denen ich sauberen Code, IT-Sicherheit und durchdachtes Design vereinen kann."
-<br></br>
+
 ### Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,cs,html,css" />
   <img src="https://skillicons.dev/icons?i=flask,sqlite,dotnet" />
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,linux,vscode,visualstudio" />
-
 
 ### CreativeTools
 <a href="https://www.image-line.com/">
