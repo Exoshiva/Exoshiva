@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Google-Developer%20Program-4285F4?style=flat-square&logo=google-developers&logoColor=white" />
   </a>
     <img src="https://img.shields.io/badge/Google-Labs%20Member-4285F4?style=flat-square&logo=google&logoColor=white" />
-  </a>
+  </br<br>
   <a href="mailto:lrs.patzenbein@gmail.com">
     <img src="https://img.shields.io/badge/Email-Kontaktieren-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
