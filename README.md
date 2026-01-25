@@ -37,7 +37,7 @@ Ich verbinde technische Logik mit visueller Ästhetik.
 
 Mein Privates Forschungsprojekt Nova-Quantum-Core beschäftigt sich u.a mit Post-Quantum-Verschlüsselung auf Edge-Devices und dient mir, mich in PQC-Algorithmen einzuarbeiten. 
 
-Aktueller Fokus:
+### Aktueller Fokus:
 
 ​🛠️ Fullstack-Entwicklung: C#, .NET, Web-Technologies & Python.
 
@@ -45,7 +45,7 @@ Aktueller Fokus:
 
 ​🔐 Sicherheit: Fokus auf sichere Software-Architekturen und Network Defense (Cisco Certified).
 
-Mein Antrieb:
+### Mein Antrieb:
 Neben der Umschulung arbeite ich an einer Forum Web-App für die Dresdner Veranstaltungs Szene. 
 Mein privates Forschungsprojekt Nova-Quantum-Core. 
 
