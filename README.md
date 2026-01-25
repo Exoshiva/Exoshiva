@@ -39,11 +39,11 @@ Mein Privates Forschungsprojekt Nova-Quantum-Core beschäftigt sich u.a mit Post
 
 ### Aktueller Fokus:
 
-​🛠️ Fullstack-Entwicklung: C#, .NET, Web-Technologies & Python.
+​- Fullstack-Entwicklung: C#, .NET, Web-Technologies & Python.
 
-​🎨 UI/UX Design: Verständnis für Layout, Typografie und User Journey.
+​- UI/UX Design: Verständnis für Layout, Typografie und User Journey.
 
-​🔐 Sicherheit: Fokus auf sichere Software-Architekturen und Network Defense (Cisco Certified).
+​- Sicherheit: Fokus auf sichere Software-Architekturen und Network Defense (Cisco Certified).
 
 ### Mein Antrieb:
 Neben der Umschulung arbeite ich an einer Forum Web-App für die Dresdner Veranstaltungs Szene. 
