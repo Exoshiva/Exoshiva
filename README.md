@@ -4,7 +4,8 @@
   <h3>Junior Fullstack Dev</h3>
   
   <p>
-    Junior Fullstack Developer | C# & Web Technologies  | Ex-Mediengestalter (UI/UX Fokus) | Open Source Enthusiast | Focus on sustainable Software
+    Junior Fullstack Developer | C# & Web Technologies  | Ex-Mediengestalter (UI/UX Fokus) 
+    Open Source Enthusiast | Focus on sustainable Software
   </p>
 
   <a href="https://developers.google.com/">
