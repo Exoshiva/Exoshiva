@@ -2,7 +2,7 @@
  
   <h1>Lars Patzenbein</h1>
   <h3>Junior Fullstack Dev</h3>
-  <p>Junior Fullstack Developer | C# & Web Technologies  | Ex-Mediengestalter (UI/UX Fokus)</p>
+  <p>C# & Web Technologies  | Ex-Mediengestalter (UI/UX Fokus)</p>
     <p> Open Source Enthusiast | Focus on sustainable Software </p>    
  
  
