@@ -73,7 +73,7 @@ einzuarbeiten.
 <br>
 <img src="https://img.shields.io/badge/Cisco-Network%20Defense-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Cisco-Threat%20Analysis-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Cisco-System%20Safeguards-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
 
-<br><br>
+
 
 **Software Development & AI (Microsoft / IBM / Cisco)**
 <br>
