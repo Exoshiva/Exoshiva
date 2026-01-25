@@ -4,9 +4,9 @@
   <h3>Junior Fullstack Dev</h3>
   
   <p>
-    Junior Fullstack Developer | C# & Web Technologies  | Ex-Mediengestalter (UI/UX Fokus) 
-    Open Source Enthusiast | Focus on sustainable Software
-  </p>
+    Junior Fullstack Developer | C# & Web Technologies  | Ex-Mediengestalter (UI/UX Fokus)</p>
+    <p> Open Source Enthusiast | Focus on sustainable Software </p>    
+ 
 
   <a href="https://developers.google.com/">
     <img src="https://img.shields.io/badge/Google-Developer%20Program-4285F4?style=flat-square&logo=google-developers&logoColor=white" />
