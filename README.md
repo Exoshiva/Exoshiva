@@ -16,7 +16,7 @@
   </a>
   <br><br>
 [![Sponsor Exoshiva](https://img.shields.io/badge/Sponsor-Exoshiva-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Exoshiva) 
-</div>
+
   <a href="mailto:lrs.patzenbein@gmail.com">
     <img src="https://img.shields.io/badge/Email-Kontaktieren-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
