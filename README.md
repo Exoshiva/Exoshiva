@@ -42,9 +42,7 @@ Ich verbinde technische Logik mit visueller Ästhetik.
 ### Aktueller Fokus:
 
 ​- Fullstack-Entwicklung: C#, .NET, Web-Technologies & Python.
-
 ​- UI/UX Design: Verständnis für Layout, Typografie und User Journey.
-
 ​- Sicherheit: Fokus auf sichere Software-Architekturen und Network Defense (Cisco Certified).
 <p></p>
 
