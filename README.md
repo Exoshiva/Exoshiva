@@ -64,10 +64,7 @@ Neben der Umschulung arbeite ich an einer Forum Web-App für die Dresdner Verans
 <a href="https://www.image-line.com/">
   <img src="https://downloads.image-line.com/Press/FLStudio20_MasterIcon.png" alt="FL Studio" width="50">
 </a>
-<a>![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)</a>
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
+
 </p>
 
 ### Zertifikate & Qualifikationen
