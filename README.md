@@ -54,7 +54,7 @@ Neben der Umschulung arbeite ich an einer Forum Web-App für die Dresdner Verans
   <img src="https://skillicons.dev/icons?i=py,cs,html,css" />
   <img src="https://skillicons.dev/icons?i=flask,sqlite,dotnet" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,linux,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,vscode,visualstudio" />
 
 ### CreativeTools
 <a href="https://www.image-line.com/">
