@@ -37,7 +37,7 @@ Ich verbinde technische Logik mit visueller Ästhetik.
 <p></p>
 
 ### Mein Antrieb:
-Neben der Umschulung arbeite ich an einer Forum Web-App für die Dresdner Veranstaltungs Szene. 
+Neben der Umschulung arbeite ich an verschiedenen Projekten die mir als Persönlichen Übungsplatz dienen. 
 
 ​Ich suche nach Herausforderungen, bei denen ich sauberen Code, IT-Sicherheit und durchdachtes Design vereinen kann."
 
