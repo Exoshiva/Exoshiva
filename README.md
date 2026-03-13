@@ -3,9 +3,6 @@
   <h1>Lars Patzenbein</h1>
   <h3>Junior Fullstack Dev</h3>
   <p>C#, Python & Web Technologie  | Ex-Mediengestalter (UI/UX Fokus) | Fokus auf nachhaltige Software</p>
-   
- 
- 
 
   <br></br>
   
