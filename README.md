@@ -51,8 +51,8 @@ Neben der Umschulung arbeite ich an einer Forum Web-App für die Dresdner Verans
 
 ### Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cs,html,css" />
-  <img src="https://skillicons.dev/icons?i=flask,sqlite,dotnet" />
+  <img src="https://skillicons.dev/icons?i=py,cs,dotnet,html,css" />
+  <img src="https://skillicons.dev/icons?i=flask,sqlite" />
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,vscode,visualstudio" />
 
