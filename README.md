@@ -29,7 +29,7 @@
 ---
 
 ### Über mich
-Durch meinen Hintergrund als Mediengestalter für Digital- und Printmedien (2011–2013) und meine aktuelle Umschulung zum Fachinformatiker für Anwendungsentwicklung (2025–2027) entwickle ich Anwendungen, die nicht nur sicher funktionieren, sondern auch intuitiv bedienbar sind.
+Durch meinen Hintergrund als Mediengestalter für Digital- und Printmedien (2011–2013) und meine aktuelle Umschulung zum Fachinformatiker für Anwendungsentwicklung (2025–2027) entwickle ich Anwendungen, die nicht nur sicher funktionieren sollen, sondern auch intuitiv bedienbar sind.
 Ich verbinde technische Logik mit visueller Ästhetik. 
 
  
@@ -41,7 +41,7 @@ Ich verbinde technische Logik mit visueller Ästhetik.
 
 ​- UI/UX Design: Verständnis für Layout, Typografie und User Journey.
 
-​- Sicherheit: Fokus auf sichere Software-Architekturen und Network Defense (Cisco Certified).
+​- Sicherheit: Fokus auf sichere Software-Architekturen und Network Defense.
 <p></p>
 
 ### Mein Antrieb:
