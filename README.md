@@ -6,10 +6,7 @@
    
  
  
-  <a href="https://developers.google.com/">
-    <img src="https://img.shields.io/badge/Google-Developer%20Program-4285F4?style=flat-square&logo=google-developers&logoColor=white" />
-  </a>
-    <img src="https://img.shields.io/badge/Google-Labs%20Member-4285F4?style=flat-square&logo=google&logoColor=white" />
+
   <br></br>
   
 <div align="center">
