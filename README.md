@@ -43,7 +43,7 @@ Neben der Umschulung arbeite ich an verschiedenen Projekten die mir als Persönl
 
 ### Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cs,dotnet,html,css" />
+  <img src="https://skillicons.dev/icons?i=py,cs,dotnet" />
   <img src="https://skillicons.dev/icons?i=flask,sqlite" />
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,vscode,visualstudio" />
