@@ -20,26 +20,17 @@
 
 ---
 
-### Über mich
-Durch meinen Hintergrund als Mediengestalter für Digital- und Printmedien (2011–2013) und meine aktuelle Umschulung zum Fachinformatiker für Anwendungsentwicklung (2025–2027) entwickle ich Anwendungen, die nicht nur sicher funktionieren sollen, sondern auch intuitiv bedienbar sind.
-Ich verbinde technische Logik mit visueller Ästhetik. 
+## Über mich
 
- 
+Ich schreibe Code nicht als Selbstzweck, sondern baue ganzheitliche digitale Produkte. Durch meine Erfahrung als Mediengestalter für Digital- und Printmedien (2011–2013) und meine aktuelle Entwicklung zum Fachinformatiker für Anwendungsentwicklung (FIAE) verbinde ich robuste Backend-Logik nahtlos mit intuitiven Frontends. Mein Fokus: Software, die technisch sicher funktioniert und visuell sofort überzeugt.
 
+### 🎯 Aktueller Fokus:
+* **Fullstack-Entwicklung:** C#, .NET, Python & moderne Web-Technologien.
+* **UI/UX Design:** Ein tiefes Verständnis für Layout, Typografie und die optimale User Journey.
+* **Architektur & Sicherheit:** Fokus auf saubere Software-Architekturen, Containerisierung (Docker) und Network Defense.
 
-### Aktueller Fokus:
-
-​- Fullstack-Entwicklung: C#, .NET, Web-Technologies & Python.
-
-​- UI/UX Design: Verständnis für Layout, Typografie und User Journey.
-
-​- Sicherheit: Fokus auf sichere Software-Architekturen und Network Defense.
-<p></p>
-
-### Mein Antrieb:
-Neben der Umschulung arbeite ich an verschiedenen Projekten die mir als Persönlichen Übungsplatz dienen. 
-
-​Ich suche nach Herausforderungen, bei denen ich sauberen Code, IT-Sicherheit und durchdachtes Design vereinen kann."
+### 🚀 Mein Antrieb:
+Neben meiner Umschulung entwickle ich eigenständig Software-Projekte, die nicht nur als Proof of Concept dienen, sondern reale Probleme lösen. Ich suche nach echten Herausforderungen, bei denen ich sauberen Code, IT-Sicherheit und durchdachtes Design zu performanten Produkten vereinen kann.
 
 ### Tech Stack
 <p align="left">
