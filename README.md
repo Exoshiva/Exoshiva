@@ -24,7 +24,7 @@
 
 ## Über mich
 
-Ich schreibe Code nicht als Selbstzweck, sondern baue ganzheitliche digitale Produkte. Durch meine Erfahrung als Mediengestalter für Digital- und Printmedien (2011–2013) und meine aktuelle Entwicklung zum Fachinformatiker für Anwendungsentwicklung (FIAE) verbinde ich robuste Backend-Logik nahtlos mit intuitiven Frontends. Mein Fokus: Software, die technisch sicher funktioniert und visuell sofort überzeugt.
+Ich schreibe Code nicht als Selbstzweck, sondern baue ganzheitliche digitale Produkte. Durch meine Erfahrung als Mediengestalter für Digital- und Printmedien und meine aktuelle Entwicklung zum Fachinformatiker für Anwendungsentwicklung (FIAE) verbinde ich robuste Backend-Logik nahtlos mit intuitiven Frontends. Mein Fokus: Software, die technisch sicher funktioniert und visuell sofort überzeugt.
 
 ### 🎯 Aktueller Fokus:
 * **Fullstack-Entwicklung:** C#, .NET, Python & moderne Web-Technologien.
