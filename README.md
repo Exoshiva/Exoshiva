@@ -4,7 +4,7 @@
 </p>
   <h1>Lars Patzenbein</h1>
   <h3>Junior Dev</h3>
-  <p>C#, Python & Web Technologie  | Ex-Mediengestalter (UI/UX Fokus) | Fokus auf nachhaltige Software</p>
+  <p>C#, Python, Flutter & Web Technologie  | Ex-Mediengestalter (UI/UX Fokus) | Fokus auf nachhaltige Software</p>
   
 <div align="center">
   <a href="mailto:lrs.patzenbein@gmail.com">
