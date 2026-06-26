@@ -27,7 +27,7 @@
 Ich schreibe Code nicht als Selbstzweck, sondern baue ganzheitliche digitale Produkte. Durch meine Erfahrung als Mediengestalter für Digital- und Printmedien und meine aktuelle Entwicklung zum Fachinformatiker für Anwendungsentwicklung (FIAE) verbinde ich robuste Backend-Logik nahtlos mit intuitiven Frontends. Mein Fokus: Software, die technisch sicher funktioniert und visuell sofort überzeugt.
 
 ### 🎯 Aktueller Fokus:
-* **Fullstack-Entwicklung:** C#, .NET, Python & moderne Web-Technologien.
+* **Fullstack-Entwicklung:** C#, .NET, Python, Flutter & moderne Web-Technologien.
 * **UI/UX Design:** Ein tiefes Verständnis für Layout, Typografie und die optimale User Journey.
 * **Architektur & Sicherheit:** Fokus auf saubere Software-Architekturen, Containerisierung (Docker) und Network Defense.
 
