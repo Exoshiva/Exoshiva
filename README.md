@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=Exoshiva&color=ff4500&style=flat-square&label=PROFILE+VIEWS" alt="Exoshiva Profile Views" />
 </p>
   <h1>Lars Patzenbein</h1>
-  <h3>Junior Fullstack Dev</h3>
+  <h3>Junior Dev</h3>
   <p>C#, Python & Web Technologie  | Ex-Mediengestalter (UI/UX Fokus) | Fokus auf nachhaltige Software</p>
   
 <div align="center">
