@@ -67,6 +67,11 @@ Neben meiner Umschulung entwickle ich eigenständig Software-Projekte, die nicht
 ---
 
 ### GitHub Statistiken
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Exoshiva&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exoshiva&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Exoshiva/Exoshiva/main/profile-summary-card-output/2077/0-profile-details.svg" width="100%" alt="Profile Details" />
   <br><br>
