@@ -61,9 +61,11 @@ Neben meiner Umschulung entwickle ich eigenständig Software-Projekte, die nicht
 * **Cryptography:** IBM Encryption & Quantum Safe Learning
 * **Google/Microsoft365:** Developer Program Certifications
 
+---
+
 ### GitHub Statistiken
 <div align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics & Aktivität über Zeit" width="100%" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
 
 
