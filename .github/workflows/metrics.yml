@@ -13,22 +13,20 @@ jobs:
     permissions:
       contents: write
     steps:
-      # WICHTIG: @master statt @latest nutzen!
       - uses: lowighter/metrics@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Exoshiva
           filename: github-metrics.svg
           
-          # 1. DARK MODE THEME FESTLEGEN (Verhindert den weißen Hintergrund)
-          # Optionen: github-dark, tokyonight, terminal, nord, cobalt
+          # 1. DARK MODE THEME 
           config_theme: github-dark
           config_timezone: Europe/Berlin
           
           # 2. Basis-Layout & Header
           base: header, activity, community, repositories
           
-          # 3. Sprachen-Übersicht (Filtert Skripte/Packages raus)
+          # 3. Sprachen-Übersicht 
           plugin_languages: yes
           plugin_languages_ignored: html, css, scss, shell, batch, powershell
           plugin_languages_limit: 8
@@ -41,6 +39,6 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
-          # 5. Klassischer Contribution-Kalender (Aktivität über Zeit im Dark Mode)
+          # 5. Klassischer Contribution-Kalender (Aktivität über Zeit)
           plugin_calendar: yes
           plugin_calendar_limit: 1
