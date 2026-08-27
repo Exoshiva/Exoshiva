@@ -1,24 +1,20 @@
 <div align="center">
  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Exoshiva&color=ff4500&style=flat-square&label=PROFILE+VIEWS" alt="Exoshiva Profile Views" />
 </p>
   <h1>Lars Patzenbein</h1>
   <h3>Junior Dev</h3>
   <p>C#, Python, Flutter & Web Technologie  | Ex-Mediengestalter (UI/UX Fokus) | Fokus auf nachhaltige Software</p>
   
-<div align="center">
-  <a href="mailto:lrs.patzenbein@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Kontaktieren-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Developer%20Program-Member-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
+</p>
 
-  <a href="https://www.buymeacoffee.com/Exoshiva250">
-    <img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</div>
-<br></br>
-</div>
-
-   
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Exoshiva&style=for-the-badge&color=orange" height="28" alt="Profile Views" />
+  <br />
+  <img src="https://octodex.github.com/images/spidertocat.png" width="180" alt="Spidertocat" />
+</p>
 
 ---
 
@@ -70,3 +66,5 @@ Neben meiner Umschulung entwickle ich eigenständig Software-Projekte, die nicht
 <div align="center">
   <img src="github-metrics.svg" alt="Metrics" width="800">
 </div>
+
+
