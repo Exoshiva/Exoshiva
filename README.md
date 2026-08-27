@@ -63,9 +63,8 @@ Neben meiner Umschulung entwickle ich eigenständig Software-Projekte, die nicht
 
 ### GitHub Statistiken
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Exoshiva&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics & Aktivität über Zeit" width="100%" />
 </div>
-
 
 
 
