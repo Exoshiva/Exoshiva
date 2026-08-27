@@ -65,7 +65,7 @@ Neben meiner Umschulung entwickle ich eigenständig Software-Projekte, die nicht
 
 ### GitHub Statistiken
 <div align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/Exoshiva/Exoshiva/main/profile-summary-card-output/2077/0-profile-details.svg" width="100%" alt="Profile Details" />
 </div>
 
 
