@@ -68,12 +68,13 @@ Neben meiner Umschulung entwickle ich eigenständig Software-Projekte, die nicht
 
 ### GitHub Statistiken
 
+### GitHub Statistiken
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Exoshiva&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exoshiva&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Exoshiva/Exoshiva/main/profile-summary-card-output/2077/0-profile-details.svg" width="100%" alt="Profile Details" />
+  <!-- Zuverlässige GitHub Streak Stats (Tokyonight Dark Theme) -->
+  <img src="https://streak-stats.demolab.com/?user=Exoshiva&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
+  
   <br><br>
-  <img src="https://raw.githubusercontent.com/Exoshiva/Exoshiva/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+
+  <!-- Deine bereits funktionierende Snake Animation -->
+  <img src="https://raw.githubusercontent.com/Exoshiva/Exoshiva/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
