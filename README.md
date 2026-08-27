@@ -67,8 +67,6 @@ Neben meiner Umschulung entwickle ich eigenständig Software-Projekte, die nicht
 ---
 
 ### GitHub Statistiken
-
-### GitHub Statistiken
 <div align="center">
   <!-- Zuverlässige GitHub Streak Stats (Tokyonight Dark Theme) -->
   <img src="https://streak-stats.demolab.com/?user=Exoshiva&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
