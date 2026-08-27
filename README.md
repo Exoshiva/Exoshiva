@@ -1,5 +1,4 @@
 <div align="center">
- <p align="center">
 </p>
   <h1>Lars Patzenbein</h1>
   <h3>Junior Dev</h3>
@@ -15,9 +14,9 @@
   <br />
   <img src="https://octodex.github.com/images/spidertocat.png" width="180" alt="Spidertocat" />
 </p>
+</div>
 
 ---
-
 ## Über mich
 
 Ich schreibe Code nicht als Selbstzweck, sondern baue ganzheitliche digitale Produkte. Durch meine Erfahrung als Mediengestalter für Digital- und Printmedien und meine aktuelle Entwicklung zum Fachinformatiker für Anwendungsentwicklung (FIAE) verbinde ich robuste Backend-Logik nahtlos mit intuitiven Frontends. Mein Fokus: Software, die technisch sicher funktioniert und visuell sofort überzeugt.
@@ -64,7 +63,9 @@ Neben meiner Umschulung entwickle ich eigenständig Software-Projekte, die nicht
 
 ### GitHub Statistiken
 <div align="center">
-  <img src="github-metrics.svg" alt="Metrics" width="800">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Exoshiva&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
+
+
 
 
