@@ -65,6 +65,7 @@ Neben meiner Umschulung entwickle ich eigenständig Software-Projekte, die nicht
 * **Google/Microsoft365:** Developer Program Certifications
 
 ---
+<br><br>
 
 ### GitHub Statistiken
 <div align="center">
