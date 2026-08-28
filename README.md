@@ -65,14 +65,13 @@ Neben meiner Umschulung entwickle ich eigenständig Software-Projekte, die nicht
 * **Google/Microsoft365:** Developer Program Certifications
 
 ---
-<br><br>
 
 ### GitHub Statistiken
 <div align="center">
   <!-- Zuverlässige GitHub Streak Stats (Tokyonight Dark Theme) -->
   <img src="https://streak-stats.demolab.com/?user=Exoshiva&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
   
-  <br><br>
+
 
   <!-- Deine bereits funktionierende Snake Animation -->
   <img src="https://raw.githubusercontent.com/Exoshiva/Exoshiva/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
