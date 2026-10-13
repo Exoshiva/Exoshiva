@@ -1,7 +1,6 @@
 <div align="center">
-  <h1>Lars Patzenbein</h1>
-  <h3>Junior Dev</h3>
-  <p>C#, Python, Flutter & Web Technologie | Ex-Mediengestalter (UI/UX Fokus) | Fokus auf nachhaltige Software</p>
+  <h1>Welcome Developer 🧭</h1>
+  <p></p>
   
   <p>
     <img src="https://img.shields.io/badge/GitHub%20Developer%20Program-Member-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
