@@ -27,7 +27,7 @@
 - **Fullstack Development:** C#, .NET, Python, Flutter & modern web technologies.
 - **UI/UX Design:** A deep understanding of layout, typography, and the optimal user journey.
 - **Architecture & Security:** Focus on clean software architectures, containerization (Docker), and network defense.
-- **
+- **Security & CI/CD:** Writing code that is both highly performant and secure. I focus on automated security pipelines (e.g., Bandit) and network defense.
 
 ### 🚀 My Drive:
 Alongside my retraining, I independently develop software projects that serve not just as proof of concepts, but solve real-world problems. I am looking for challenges where I can learn new things to combine clean code, IT security, and thoughtful design into high-performance products.
