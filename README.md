@@ -72,4 +72,5 @@ Alongside my retraining, I independently develop software projects that serve no
 ### GitHub Statistics
 <div align="center">
   <!-- Zuverlässige GitHub Streak Stats (Tokyonight Dark Theme) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Exoshiva&background=161B22&stroke=000000&ring=FF8C00&fire=FF8C00&currStreakNum=FF8C00&sideNums=FF8C00&currStreakLabel=D8B4FE&sideLabels=D8B4FE&dates=D8B4FE&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Exoshiva&background=161B22&stroke=000000&ring=FF8C00&fire=FF8C00&currStreakNum=FF8C00&sideNums=FF8C00&currStreakLabel=D8B4FE&sideLabels=D8B4FE&dates=D8B4FE&hide_border=true" width="100%" />
+</div>
