@@ -2,12 +2,10 @@
   <h1>Welcome Developer's 🧭</h1>
   <p></p>
   
-[![My GitRanks rank](https://gitranks.com/badge/user/Exoshiva/rank.svg)](https://gitranks.com/profile/Exoshiva)
+[![My GitRanks rank](https://gitranks.com/badge/user/Exoshiva/rank.svg)](https://gitranks.com/profile/Exoshiva) [![Exoshiva on GitRanks: gitranks Rookie · level 1 of 5](https://gitranks.com/badge/user/Exoshiva/tier.svg?scope=country&extra=level&scheme=night)](https://gitranks.com/profile/Exoshiva/country)
 
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Exoshiva&style=for-the-badge&color=orange" height="28" alt="Profile Views" />
-    <br /><br />
     <img src="https://octodex.github.com/images/spidertocat.png" width="180" alt="Spidertocat" />
   </p>
 </div>
