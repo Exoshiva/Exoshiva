@@ -2,10 +2,6 @@
   <h1>Welcome Developer's 🧭</h1>
   <p></p>
   
-  <p>
-    <img src="https://img.shields.io/badge/GitHub%20Developer%20Program-Member-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
-
-  </p>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=Exoshiva&style=for-the-badge&color=orange" height="28" alt="Profile Views" />
