@@ -2,6 +2,8 @@
   <h1>Welcome Developer's 🧭</h1>
   <p></p>
   
+[![My GitRanks rank](https://gitranks.com/badge/user/Exoshiva/rank.svg)](https://gitranks.com/profile/Exoshiva)
+
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=Exoshiva&style=for-the-badge&color=orange" height="28" alt="Profile Views" />
@@ -63,10 +65,15 @@ Alongside my retraining, I independently develop software projects that serve no
 </p>
 
 
+
 ---
 
-### GitHub Statistics
+### GitHub and GitRanks Statistics
+
+[![Exoshiva on GitRanks: profile](https://gitranks.com/badge/user/Exoshiva/profile-card.svg?scheme=night)](https://gitranks.com/profile/Exoshiva) 
+<br><br>
 <div align="center">
   <!-- Zuverlässige GitHub Streak Stats (Tokyonight Dark Theme) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Exoshiva&background=161B22&stroke=000000&ring=FF8C00&fire=FF8C00&currStreakNum=FF8C00&sideNums=FF8C00&currStreakLabel=D8B4FE&sideLabels=D8B4FE&dates=D8B4FE&hide_border=true" width="100%" />
 </div>
+
