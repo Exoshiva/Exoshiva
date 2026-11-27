@@ -19,7 +19,7 @@
 </picture>
 </div>
 
-<img src="[https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)<USERNAME>/<USERNAME>/output/hero-contrib.svg" alt="Hero Contribution Graph" />
+<img src="[https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)<Exoshiva/Exoshiva>/output/hero-contrib.svg" alt="Hero Contribution Graph" />
 
 ## About Me
 
